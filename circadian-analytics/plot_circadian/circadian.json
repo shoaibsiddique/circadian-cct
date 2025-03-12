@@ -1,0 +1,1442 @@
+[
+    {
+        "time": 0,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 5,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 10,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 15,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 20,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 25,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 30,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 35,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 40,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 45,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 50,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 55,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 60,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 65,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 70,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 75,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 80,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 85,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 90,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 95,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 100,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 105,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 110,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 115,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 120,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 125,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 130,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 135,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 140,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 145,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 150,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 155,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 160,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 165,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 170,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 175,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 180,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 185,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 190,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 195,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 200,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 205,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 210,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 215,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 220,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 225,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 230,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 235,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 240,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 245,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 250,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 255,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 260,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 265,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 270,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 275,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 280,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 285,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 290,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 295,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 300,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 305,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 310,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 315,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 320,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 325,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 330,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 335,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 340,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 345,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 350,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 355,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 360,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 365,
+        "cct": 1845,
+        "brightness": 1
+    },
+    {
+        "time": 370,
+        "cct": 1890,
+        "brightness": 2
+    },
+    {
+        "time": 375,
+        "cct": 1935,
+        "brightness": 4
+    },
+    {
+        "time": 380,
+        "cct": 1980,
+        "brightness": 5
+    },
+    {
+        "time": 385,
+        "cct": 2025,
+        "brightness": 6
+    },
+    {
+        "time": 390,
+        "cct": 2070,
+        "brightness": 8
+    },
+    {
+        "time": 395,
+        "cct": 2115,
+        "brightness": 9
+    },
+    {
+        "time": 400,
+        "cct": 2161,
+        "brightness": 11
+    },
+    {
+        "time": 405,
+        "cct": 2206,
+        "brightness": 12
+    },
+    {
+        "time": 410,
+        "cct": 2251,
+        "brightness": 13
+    },
+    {
+        "time": 415,
+        "cct": 2296,
+        "brightness": 15
+    },
+    {
+        "time": 420,
+        "cct": 2341,
+        "brightness": 16
+    },
+    {
+        "time": 425,
+        "cct": 2386,
+        "brightness": 18
+    },
+    {
+        "time": 430,
+        "cct": 2431,
+        "brightness": 19
+    },
+    {
+        "time": 435,
+        "cct": 2477,
+        "brightness": 20
+    },
+    {
+        "time": 440,
+        "cct": 2522,
+        "brightness": 22
+    },
+    {
+        "time": 445,
+        "cct": 2567,
+        "brightness": 23
+    },
+    {
+        "time": 450,
+        "cct": 2612,
+        "brightness": 25
+    },
+    {
+        "time": 455,
+        "cct": 2657,
+        "brightness": 26
+    },
+    {
+        "time": 460,
+        "cct": 2702,
+        "brightness": 27
+    },
+    {
+        "time": 465,
+        "cct": 2747,
+        "brightness": 29
+    },
+    {
+        "time": 470,
+        "cct": 2793,
+        "brightness": 30
+    },
+    {
+        "time": 475,
+        "cct": 2838,
+        "brightness": 31
+    },
+    {
+        "time": 480,
+        "cct": 2883,
+        "brightness": 33
+    },
+    {
+        "time": 485,
+        "cct": 2928,
+        "brightness": 34
+    },
+    {
+        "time": 490,
+        "cct": 2973,
+        "brightness": 36
+    },
+    {
+        "time": 495,
+        "cct": 3018,
+        "brightness": 37
+    },
+    {
+        "time": 500,
+        "cct": 3063,
+        "brightness": 38
+    },
+    {
+        "time": 505,
+        "cct": 3109,
+        "brightness": 40
+    },
+    {
+        "time": 510,
+        "cct": 3154,
+        "brightness": 41
+    },
+    {
+        "time": 515,
+        "cct": 3199,
+        "brightness": 43
+    },
+    {
+        "time": 520,
+        "cct": 3244,
+        "brightness": 44
+    },
+    {
+        "time": 525,
+        "cct": 3289,
+        "brightness": 45
+    },
+    {
+        "time": 530,
+        "cct": 3334,
+        "brightness": 47
+    },
+    {
+        "time": 535,
+        "cct": 3379,
+        "brightness": 48
+    },
+    {
+        "time": 540,
+        "cct": 3425,
+        "brightness": 50
+    },
+    {
+        "time": 545,
+        "cct": 3470,
+        "brightness": 51
+    },
+    {
+        "time": 550,
+        "cct": 3515,
+        "brightness": 52
+    },
+    {
+        "time": 555,
+        "cct": 3560,
+        "brightness": 54
+    },
+    {
+        "time": 560,
+        "cct": 3605,
+        "brightness": 55
+    },
+    {
+        "time": 565,
+        "cct": 3650,
+        "brightness": 56
+    },
+    {
+        "time": 570,
+        "cct": 3695,
+        "brightness": 58
+    },
+    {
+        "time": 575,
+        "cct": 3740,
+        "brightness": 59
+    },
+    {
+        "time": 580,
+        "cct": 3786,
+        "brightness": 61
+    },
+    {
+        "time": 585,
+        "cct": 3831,
+        "brightness": 62
+    },
+    {
+        "time": 590,
+        "cct": 3876,
+        "brightness": 63
+    },
+    {
+        "time": 595,
+        "cct": 3921,
+        "brightness": 65
+    },
+    {
+        "time": 600,
+        "cct": 3966,
+        "brightness": 66
+    },
+    {
+        "time": 605,
+        "cct": 4011,
+        "brightness": 68
+    },
+    {
+        "time": 610,
+        "cct": 4056,
+        "brightness": 69
+    },
+    {
+        "time": 615,
+        "cct": 4102,
+        "brightness": 70
+    },
+    {
+        "time": 620,
+        "cct": 4147,
+        "brightness": 72
+    },
+    {
+        "time": 625,
+        "cct": 4192,
+        "brightness": 73
+    },
+    {
+        "time": 630,
+        "cct": 4237,
+        "brightness": 75
+    },
+    {
+        "time": 635,
+        "cct": 4282,
+        "brightness": 76
+    },
+    {
+        "time": 640,
+        "cct": 4327,
+        "brightness": 77
+    },
+    {
+        "time": 645,
+        "cct": 4372,
+        "brightness": 79
+    },
+    {
+        "time": 650,
+        "cct": 4418,
+        "brightness": 80
+    },
+    {
+        "time": 655,
+        "cct": 4463,
+        "brightness": 81
+    },
+    {
+        "time": 660,
+        "cct": 4508,
+        "brightness": 83
+    },
+    {
+        "time": 665,
+        "cct": 4553,
+        "brightness": 84
+    },
+    {
+        "time": 670,
+        "cct": 4598,
+        "brightness": 86
+    },
+    {
+        "time": 675,
+        "cct": 4643,
+        "brightness": 87
+    },
+    {
+        "time": 680,
+        "cct": 4688,
+        "brightness": 88
+    },
+    {
+        "time": 685,
+        "cct": 4734,
+        "brightness": 90
+    },
+    {
+        "time": 690,
+        "cct": 4779,
+        "brightness": 91
+    },
+    {
+        "time": 695,
+        "cct": 4824,
+        "brightness": 93
+    },
+    {
+        "time": 700,
+        "cct": 4869,
+        "brightness": 94
+    },
+    {
+        "time": 705,
+        "cct": 4914,
+        "brightness": 95
+    },
+    {
+        "time": 710,
+        "cct": 4959,
+        "brightness": 97
+    },
+    {
+        "time": 715,
+        "cct": 5004,
+        "brightness": 98
+    },
+    {
+        "time": 720,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 725,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 730,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 735,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 740,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 745,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 750,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 755,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 760,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 765,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 770,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 775,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 780,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 785,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 790,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 795,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 800,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 805,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 810,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 815,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 820,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 825,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 830,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 835,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 840,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 845,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 850,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 855,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 860,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 865,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 870,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 875,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 880,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 885,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 890,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 895,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 900,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 905,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 910,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 915,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 920,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 925,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 930,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 935,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 940,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 945,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 950,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 955,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 960,
+        "cct": 5050,
+        "brightness": 100
+    },
+    {
+        "time": 965,
+        "cct": 5004,
+        "brightness": 98
+    },
+    {
+        "time": 970,
+        "cct": 4959,
+        "brightness": 97
+    },
+    {
+        "time": 975,
+        "cct": 4914,
+        "brightness": 95
+    },
+    {
+        "time": 980,
+        "cct": 4869,
+        "brightness": 94
+    },
+    {
+        "time": 985,
+        "cct": 4824,
+        "brightness": 93
+    },
+    {
+        "time": 990,
+        "cct": 4779,
+        "brightness": 91
+    },
+    {
+        "time": 995,
+        "cct": 4734,
+        "brightness": 90
+    },
+    {
+        "time": 1000,
+        "cct": 4688,
+        "brightness": 88
+    },
+    {
+        "time": 1005,
+        "cct": 4643,
+        "brightness": 87
+    },
+    {
+        "time": 1010,
+        "cct": 4598,
+        "brightness": 86
+    },
+    {
+        "time": 1015,
+        "cct": 4553,
+        "brightness": 84
+    },
+    {
+        "time": 1020,
+        "cct": 4508,
+        "brightness": 83
+    },
+    {
+        "time": 1025,
+        "cct": 4463,
+        "brightness": 81
+    },
+    {
+        "time": 1030,
+        "cct": 4418,
+        "brightness": 80
+    },
+    {
+        "time": 1035,
+        "cct": 4372,
+        "brightness": 79
+    },
+    {
+        "time": 1040,
+        "cct": 4327,
+        "brightness": 77
+    },
+    {
+        "time": 1045,
+        "cct": 4282,
+        "brightness": 76
+    },
+    {
+        "time": 1050,
+        "cct": 4237,
+        "brightness": 75
+    },
+    {
+        "time": 1055,
+        "cct": 4192,
+        "brightness": 73
+    },
+    {
+        "time": 1060,
+        "cct": 4147,
+        "brightness": 72
+    },
+    {
+        "time": 1065,
+        "cct": 4102,
+        "brightness": 70
+    },
+    {
+        "time": 1070,
+        "cct": 4056,
+        "brightness": 69
+    },
+    {
+        "time": 1075,
+        "cct": 4011,
+        "brightness": 68
+    },
+    {
+        "time": 1080,
+        "cct": 3966,
+        "brightness": 66
+    },
+    {
+        "time": 1085,
+        "cct": 3921,
+        "brightness": 65
+    },
+    {
+        "time": 1090,
+        "cct": 3876,
+        "brightness": 63
+    },
+    {
+        "time": 1095,
+        "cct": 3831,
+        "brightness": 62
+    },
+    {
+        "time": 1100,
+        "cct": 3786,
+        "brightness": 61
+    },
+    {
+        "time": 1105,
+        "cct": 3740,
+        "brightness": 59
+    },
+    {
+        "time": 1110,
+        "cct": 3695,
+        "brightness": 58
+    },
+    {
+        "time": 1115,
+        "cct": 3650,
+        "brightness": 56
+    },
+    {
+        "time": 1120,
+        "cct": 3605,
+        "brightness": 55
+    },
+    {
+        "time": 1125,
+        "cct": 3560,
+        "brightness": 54
+    },
+    {
+        "time": 1130,
+        "cct": 3515,
+        "brightness": 52
+    },
+    {
+        "time": 1135,
+        "cct": 3470,
+        "brightness": 51
+    },
+    {
+        "time": 1140,
+        "cct": 3425,
+        "brightness": 50
+    },
+    {
+        "time": 1145,
+        "cct": 3379,
+        "brightness": 48
+    },
+    {
+        "time": 1150,
+        "cct": 3334,
+        "brightness": 47
+    },
+    {
+        "time": 1155,
+        "cct": 3289,
+        "brightness": 45
+    },
+    {
+        "time": 1160,
+        "cct": 3244,
+        "brightness": 44
+    },
+    {
+        "time": 1165,
+        "cct": 3199,
+        "brightness": 43
+    },
+    {
+        "time": 1170,
+        "cct": 3154,
+        "brightness": 41
+    },
+    {
+        "time": 1175,
+        "cct": 3109,
+        "brightness": 40
+    },
+    {
+        "time": 1180,
+        "cct": 3063,
+        "brightness": 38
+    },
+    {
+        "time": 1185,
+        "cct": 3018,
+        "brightness": 37
+    },
+    {
+        "time": 1190,
+        "cct": 2973,
+        "brightness": 36
+    },
+    {
+        "time": 1195,
+        "cct": 2928,
+        "brightness": 34
+    },
+    {
+        "time": 1200,
+        "cct": 2883,
+        "brightness": 33
+    },
+    {
+        "time": 1205,
+        "cct": 2838,
+        "brightness": 31
+    },
+    {
+        "time": 1210,
+        "cct": 2793,
+        "brightness": 30
+    },
+    {
+        "time": 1215,
+        "cct": 2747,
+        "brightness": 29
+    },
+    {
+        "time": 1220,
+        "cct": 2702,
+        "brightness": 27
+    },
+    {
+        "time": 1225,
+        "cct": 2657,
+        "brightness": 26
+    },
+    {
+        "time": 1230,
+        "cct": 2612,
+        "brightness": 25
+    },
+    {
+        "time": 1235,
+        "cct": 2567,
+        "brightness": 23
+    },
+    {
+        "time": 1240,
+        "cct": 2522,
+        "brightness": 22
+    },
+    {
+        "time": 1245,
+        "cct": 2477,
+        "brightness": 20
+    },
+    {
+        "time": 1250,
+        "cct": 2431,
+        "brightness": 19
+    },
+    {
+        "time": 1255,
+        "cct": 2386,
+        "brightness": 18
+    },
+    {
+        "time": 1260,
+        "cct": 2341,
+        "brightness": 16
+    },
+    {
+        "time": 1265,
+        "cct": 2296,
+        "brightness": 15
+    },
+    {
+        "time": 1270,
+        "cct": 2251,
+        "brightness": 13
+    },
+    {
+        "time": 1275,
+        "cct": 2206,
+        "brightness": 12
+    },
+    {
+        "time": 1280,
+        "cct": 2161,
+        "brightness": 11
+    },
+    {
+        "time": 1285,
+        "cct": 2115,
+        "brightness": 9
+    },
+    {
+        "time": 1290,
+        "cct": 2070,
+        "brightness": 8
+    },
+    {
+        "time": 1295,
+        "cct": 2025,
+        "brightness": 6
+    },
+    {
+        "time": 1300,
+        "cct": 1980,
+        "brightness": 5
+    },
+    {
+        "time": 1305,
+        "cct": 1935,
+        "brightness": 4
+    },
+    {
+        "time": 1310,
+        "cct": 1890,
+        "brightness": 2
+    },
+    {
+        "time": 1315,
+        "cct": 1845,
+        "brightness": 1
+    },
+    {
+        "time": 1320,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1325,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1330,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1335,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1340,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1345,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1350,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1355,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1360,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1365,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1370,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1375,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1380,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1385,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1390,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1395,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1400,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1405,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1410,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1415,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1420,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1425,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1430,
+        "cct": 1800,
+        "brightness": 0
+    },
+    {
+        "time": 1435,
+        "cct": 1800,
+        "brightness": 0
+    }
+]
